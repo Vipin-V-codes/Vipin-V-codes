@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Vipin V 👋
 
-<!--
-**Vipin-V-codes/Vipin-V-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Information Technology Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a first-year Information Technology student interested in software development and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Pursuing B.Tech Information Technology
+- 💻 Currently learning C, C++ and Java
+- 🌱 Improving my problem-solving and programming skills
+- 🧩 Practicing Data Structures and Algorithms
+- 🔨 Interested in software development and full-stack development
+- 🚀 Interested in building real-world projects and participating in hackathons
+
+## 🛠️ Skills
+
+- C
+- C++
+- Java
+- Git & GitHub
+- Problem Solving
+- Data Structures & Algorithms
+
+## 📚 Currently Learning
+
+- Java Programming
+- Data Structures & Algorithms
+- Web Development
+- Git & GitHub
+- Software Development
+
+## 🎯 Goals
+
+My goal is to become a skilled software developer by continuously learning, building projects, solving problems, and gaining practical experience.
+
+## 📌 Projects
+
+More projects coming soon!
+
+## 📫 Connect With Me
+
+- LinkedIn: [My Linkedin](https://linkedin.com/in/vipin-v-codes)
+- GitHub: [My GitHub](https://github.com/Vipin-V-codes)
+
+---
+
+⭐ Thanks for visiting my profile!
